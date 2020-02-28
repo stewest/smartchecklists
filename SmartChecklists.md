@@ -14,6 +14,8 @@
 > - _Functional testing_
 > - _Visual Regression testing_
 > - _Browser/device testing_
+> - Test logged in and test logged out
+> - If Content Editor related, TEST AS EDITOR USER! Check permissions.
 > - (i) changed to (/)
 - Approved by PO / PM
 - Approved by client (Demo Done)
