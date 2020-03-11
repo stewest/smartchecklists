@@ -11,7 +11,7 @@
 > - Test Creating an unpublished basic page,
 > - Use the WYSIWYG editor, upload an image in content
 > - Upload an image via a normal Image file upload field.
-> -  Use the Media library and select an image from the Library to see if that works.
+> - Use the Media library and select an image from the Library to see if that works.
 > - Can you save? Can you translate?
 > - Do Paragraphs still work and translate ok? Check for major differences between languages (in case translations are broken, like missing content or imagery)
 
