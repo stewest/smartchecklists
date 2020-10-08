@@ -16,6 +16,7 @@
 > - _Browser/device testing_
 > - Test logged in and test logged out
 > - If Content Editor related, TEST AS EDITOR USER! Check permissions.
+> - See https://confluence.amazee.com/display/ALGM/Testing+Checklist
 > - (i) changed to (/)
 - Approved by PO / PM
 - Approved by client (Demo Done)

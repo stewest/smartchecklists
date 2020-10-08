@@ -7,8 +7,9 @@
 
 - Login:
 > - Look at the Status page for any major red errors. /admin/reports/status
+> - Check Logs.
 > - Do any warning messages pop up on the top of the page?
-> - Test Creating an unpublished basic page,
+> - Test Creating an unpublished basic page
 > - Use the WYSIWYG editor, upload an image in content
 > - Upload an image via a normal Image file upload field.
 > - Use the Media library and select an image from the Library to see if that works.
